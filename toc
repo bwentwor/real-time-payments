@@ -1,0 +1,9 @@
+{:navgroup: .navgroup}
+{:topicgroup: .topicgroup}
+
+{: .toc subcollection="RealTimePayments" audience="service" href="/docs/services/real-time-payments/index.html"}
+Real Time Payments
+
+    {: .navgroup id="learn"}
+    index.md
+    {: .navgroup-end}
