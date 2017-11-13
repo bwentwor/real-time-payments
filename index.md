@@ -11,19 +11,19 @@ lastupdated: "2017-09-12"
 {:codeblock: .codeblock}
 {:pre: .pre}
 
-# Getting started with Zelle® {{site.data.keyword.real_time_payments_short}} 
+# Getting started with {{site.data.keyword.real_time_payments_short}} 
 {: #getting_started_real_time_payments_short}
 
-The Zelle® {{site.data.keyword.real_time_payments_short}} service leverages IBM Financial Transaction Manager's sophisticated capabilities to manage participants, tokens and receivers, to initiate payments and payment requests and to view the status of the payments hub.
+The {{site.data.keyword.real_time_payments_short}} service leverages IBM Financial Transaction Manager's sophisticated capabilities to manage participants, tokens and receivers, to initiate payments and payment requests and to view the status of the payments hub.
 {:shortdesc}
 
 IBM Financial Transaction Manager is trusted by the world's largest financial institutions to meet their payment processing needs. 
 
-The APIs and Zelle® {{site.data.keyword.real_time_payments_short}} are real services hosted in Bluemix that you can test with. Other supporting systems such as the accounting system and network responses are simulated. So, some responses may differ from a full production system.
+The APIs and {{site.data.keyword.real_time_payments_short}} are real services hosted in Bluemix that you can test with. Other supporting systems such as the accounting system and network responses are simulated. So, some responses may differ from a full production system.
 
 ## Before you begin
 
-The following steps show you how to obtain access to the Zelle® {{site.data.keyword.real_time_payments_short}} service and invoke API methods. To use the Zelle® {{site.data.keyword.real_time_payments_short}} REST API, it is important that you understand the basics of RESTful web services and JSON representations.
+The following steps show you how to obtain access to the {{site.data.keyword.real_time_payments_short}} service and invoke API methods. To use the {{site.data.keyword.real_time_payments_short}} REST API, it is important that you understand the basics of RESTful web services and JSON representations.
 
 You must install cURL before you can use the service.
 
