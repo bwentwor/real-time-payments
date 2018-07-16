@@ -7,3 +7,7 @@ Real Time Payments
     {: .navgroup id="learn"}
     index.md
     {: .navgroup-end}
+
+    {: .navgroup id="reference"}
+    [API Reference](https://console.bluemix.net/apidocs/real-time-payments-service)
+    {: .navgroup-end}
