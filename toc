@@ -1,7 +1,7 @@
 {:navgroup: .navgroup}
 {:topicgroup: .topicgroup}
 
-{: .toc subcollection="RealTimePayments" audience="service" href="/docs/services/real-time-payments/index.html"}
+{: .toc subcollection="RealTimePayments" audience="service" arm="3917557" href="/docs/services/real-time-payments/index.html"}
 Real Time Payments
 
     {: .navgroup id="learn"}
